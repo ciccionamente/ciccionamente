@@ -1,5 +1,5 @@
-**Ciao, I'm Francesco!**
+**Hi, I'm Francesco.**
 
-I'm an Italian product designer based in Berlin, Germany. I love to solve tech problems by finding their most simple, solid and elegant solutions.
+With over 10 years experience in web development, design, and growth strategies, I love to build sharp digital products.
 
 Website: [https://francescocalabretta.com](https://francescocalabretta.com/)
