@@ -1,4 +1,4 @@
-**Hi, I'm [Francesco](https://francescocalabretta.com/).**
+## **Hi, I'm [Francesco](https://francescocalabretta.com/).**
 **With over 10 years experience in web development, design, and growth strategies, I love to build digital products.**
 
 * Currently working at [SmartFrame](https://smartframe.io) as a Product Owner.
