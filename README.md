@@ -1,5 +1,5 @@
 ## **Hi, I'm [Francesco](https://francescocalabretta.com/).**
-**With over 10 years experience in web development, design, and growth strategies, I love to build digital products.**
+**With over 10 years of experience in web development, design, and growth strategies, I love to build digital products.**
 
 * Currently working at [SmartFrame](https://smartframe.io) as a Product Owner.
 * Worked as a freelance for clients such as [Laura Seiler](https://www.lauraseiler.com/) and [GetTechTalent](https://www.linkedin.com/company/gettechtalent/).
